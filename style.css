@@ -20,6 +20,9 @@ h1, h2, h3 {
     color: blue;
     margin-bottom: 15px;
 }
+img{
+    background-image: url(/img/Slogan2.jpeg);
+}
 
 /* SELETOR POR ID E FLEXBOX: Cabeçalho e Navegação */
 #cabecalho {
@@ -81,6 +84,14 @@ h1, h2, h3 {
 
 .card-body {
     padding: 20px;
+}
+
+
+
+.tabela-jogos{
+    display: contents;
+    background-color: #3498db;
+
 }
 
 /* Tabela de Serviços */
